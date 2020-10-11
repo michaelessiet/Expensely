@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277277392193",
+    "firebase_url": "https://expensly-a82fb.firebaseio.com",
+    "project_id": "expensly-a82fb",
+    "storage_bucket": "expensly-a82fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277277392193:android:4978c072fe1914518235c0",
+        "android_client_info": {
+          "package_name": "com.mietech.Expensely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277277392193-mul0dout9nq14t5caqfogv7c7k2p2sih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mietech.Expensely",
+            "certificate_hash": "89c9f6662c108510240911809511227985c75af0"
+          }
+        },
+        {
+          "client_id": "277277392193-psrchhvrkbdvqgf7sa0f7ku1btofl2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_z6ZWSV37VPDuam5cHSsbZsj63SCn1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277277392193-psrchhvrkbdvqgf7sa0f7ku1btofl2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
